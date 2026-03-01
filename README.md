@@ -11,7 +11,5 @@ SNHU CS 330 Computer Graphics and Visualization
 
 4. How can computer science help me in reaching my goals?
 
-How do computational graphics and visulizations give you new knowledge and skills that can be applied in your future educational pathway? 
-
-How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway? 
+   I'm interested in going into data science, so I think these skills could definitely be transferable to my future career. Data visualization is so important for analysis, and although I usually see this depicted in 2D, it would be really powerful to present findings and comparisons using 3D graphics. It could be interactive in ways that 2D cannot, and could help people better understand complicated information using things like 3D charts or heat maps. 
    
