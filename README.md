@@ -7,9 +7,7 @@ SNHU CS 330 Computer Graphics and Visualization
 
 3. How do I approach developing programs?
 
-   What new development strategies did you use while working on your 3D scene?
-   How did iteration factor into your development ?
-   How has your approach to developing code evolved throughout the milestones, which led you to the   project's completion?
+  I ran my program constantly, usually after every new section was added. If something wasn't working correctly, I knew the problem was probably in whatever I just changed. Testing often meant I could narrow down exactly which lines were causing issues, then I'd go back to the class resources to figure out how to fix the shape or texture or lighting. In the beginning I would try to write bigger chunks of code at once and then get frustrated when it didn't work. By the end I learned to add just a few lines, test, and repeat. 
 
 4. How can computer science help me in reaching my goals?
 
